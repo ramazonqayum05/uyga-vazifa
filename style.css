@@ -6,11 +6,6 @@ body {
     text-align: center;
 }
 
-img {
-    border-radius: 50%;
-    max-width: 90px;
-}
-
 a {
     text-decoration: none;
     color: blue;
